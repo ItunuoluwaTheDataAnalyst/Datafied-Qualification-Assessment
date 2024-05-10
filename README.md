@@ -24,7 +24,7 @@
 
 The financial services industry operates within a dynamic ecosystem, where customer retention stands as a pivotal factor for long-term growth and brand sustainability. A Canadian bank, grappling with customer churn, approached Datafied Technologies for assistance. The bank's challenges include revenue loss, diminished brand loyalty, and a lack of insights into the factors driving customer attrition. To address these issues, Datafied Technologies was tasked with leveraging exploratory data analysis (EDA) through Power BI to delve into a churn database containing records of 10,000 bank customers over a six-month period.
 
-# Data Sources
+# Data Source
 ---
 
 This data was provided by Datafied
@@ -35,7 +35,7 @@ This data was provided by Datafied
 Microsoft Excel - for primarily housing the data
 Power BI - for data cleaning, exploratory data analysis, and visualization
 
-# Data cleaning & Exploratory Data Analysis
+# Data Cleaning & Exploratory Data Analysis
 ---
 
 The data set contains 10,000 different customer IDs with their details with the bank. The following are the insights to be derived from the analysis:
@@ -52,7 +52,7 @@ The data set contains 10,000 different customer IDs with their details with the 
 10.The average balance of churned customers compared to non-churned customers
 11.	How does the number of years of tenute relate with cutomers churn
 
-# Data Visualization and Findings
+# Data Visualization
 ---
 
 ![](customerchurn.png)
@@ -89,7 +89,7 @@ The data set contains 10,000 different customer IDs with their details with the 
 
 4. Regional Tailoring of Services: Customize services and products to meet the specific needs and preferences of customers in different geographic regions.
 ﻿
-#Glossary
+# Glossary
 ---
 
 These are the column names of the "customerchurn" dataset. This section provides valuable information for analyzing the data and identifying factors that contribute to customers leaving or staying with the bank.
